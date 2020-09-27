@@ -1,2 +1,2 @@
-# course1
+# MOD2_assignment
 html course
